@@ -59,6 +59,9 @@ You can also paste file contents or error messages directly.
 
 ### 5. Tools & Environment Setup
 
+### 6. Archive valuable chat dialogues.
+When an AI conversation produced a substantial explanation worth keeping, save it to `chat-archives/` using the template. Then write your own synthesis in `notes/`.
+
 ```bash
 # After cloning the repo
 cd ai-engineering

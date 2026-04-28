@@ -99,5 +99,8 @@ This file evolves with the program. Keep it concise but comprehensive.
 
 ---
 
+## Note-taking convention
+Chat dialogues archived under `phases/XX/chat-archives/` as `dayNN_cdnNNN_topic.md`. Personal synthesized notes (in student's voice) under `phases/XX/notes/dayNN.md`. AI explanations always attributed by model.
+
 **We are building something excellent together.**  
 — Grok + von Stegen
